@@ -1,5 +1,4 @@
 pandas == 1.2.2
-matplotlib == 3.3.4
 psycopg2-binary == 2.8.6
 statsmodels == 0.12.2
 scipy == 1.6.1
@@ -7,3 +6,6 @@ ipykernel == 5.4.3
 torch == 1.8.0
 ipywidgets
 transformers == 4.5.0
+scikit-learn == 0.24.1
+datasets == 1.4.0
+nltk == 3.6.1

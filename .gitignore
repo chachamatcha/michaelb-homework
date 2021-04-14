@@ -60,3 +60,6 @@ target/
 
 #jupyter fun
 .ipynb_checkpoints/
+
+#huggingface fun
+test-nytimes
